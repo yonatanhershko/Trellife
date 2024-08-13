@@ -1,3 +1,5 @@
+<h1>Trellife🌳</h1>
+
 A full-stack web application that replicates the core functionalities of trello app, developed by Yonatan Hershko, Dolev Levy and Jonathan Dolan.
 
 
