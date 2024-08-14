@@ -1,6 +1,6 @@
-<h1>Trellife🌳</h1>
+<h1>Trellife a Trello clone using React, Node.js & MongoDB🌳</h1>
 
-A full-stack web application that replicates the core functionalities of trello app, developed by Yonatan Hershko, Dolev Levy and Jonathan Dolan.
+A full-stack web application that replicates the core functionalities of trello app (built in 12 days!), developed by Yonatan Hershko, Dolev Levy and Jonathan Dolan.
 
 
 
