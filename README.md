@@ -47,7 +47,7 @@ Enter the backend folder and make sure you have node_modules installed. After th
 ```
 cd backend
 npm i 
-npm run server:dev
+npm run start
 ```
 
 You shuold get a console ouput that the server is up and running at port 3030.
@@ -56,7 +56,7 @@ Enter the frontend folder and repeat the same process.
 ```
 cd frontend
 npm i 
-npm run dev:remote
+npm run start
 ```
 
 You shuold get a console ouput that the server is up and running at localhost:3030.
