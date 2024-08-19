@@ -3,7 +3,11 @@
 A full-stack web application that replicates the core functionalities of trello app (built in 12 days!), developed by Yonatan Hershko, Dolev Levy and Jonathan Dolan.
 [Check it here⭐](https://trellife.onrender.com/)
 
- https://github.com/user-attachments/assets/efcd2a9b-37b4-4ce1-b179-5bdba1c150f7
+
+
+https://github.com/user-attachments/assets/947d0391-24b3-4da8-a969-ec897e7ceec4
+
+
 
 <div>
 <img width="940" alt="24" src="https://github.com/user-attachments/assets/4f64395b-33bf-4cf0-affa-5fd11d272f19">
